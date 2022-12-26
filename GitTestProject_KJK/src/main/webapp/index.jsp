@@ -8,6 +8,6 @@
 </head>
 <body>
 	<!-- jk branch 에서 추가한 주석 -->
-	
+	<h1>index.jsp</h1>
 </body>
 </html>
